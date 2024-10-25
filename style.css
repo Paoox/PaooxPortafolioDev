@@ -1,0 +1,7 @@
+*{
+    box-sizing: border-box;
+    background-color: black;
+    color: aliceblue;
+    font-size: 18px;
+    overflow: hidden;
+}
